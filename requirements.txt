@@ -1,0 +1,15 @@
+wheel
+jupyterlab
+black
+matplotlib
+numpy
+h5py
+matplotlib
+pillow
+scipy
+scikit-learn
+pytest
+dlai-tools
+tensorflow
+pandas
+seaborn
